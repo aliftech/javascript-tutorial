@@ -1,0 +1,23 @@
+{
+  "name": "concurency",
+  "version": "1.0.0",
+  "description": "kuda",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliftech/javascript-tutorial.git"
+  },
+  "keywords": [
+    "javascript",
+    "latihan"
+  ],
+  "author": "aliftech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliftech/javascript-tutorial/issues"
+  },
+  "homepage": "https://github.com/aliftech/javascript-tutorial#readme"
+}
